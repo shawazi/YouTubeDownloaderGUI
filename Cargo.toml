@@ -1,0 +1,9 @@
+[package]
+name = "youtubealarm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gio = "0.20.1"
+glib = "0.20.1"
+gtk = "0.18.1"
